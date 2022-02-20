@@ -50,6 +50,10 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Securing Jenkins](https://www.jenkins.io/doc/book/security/securing-jenkins/)
 - [How to Secure Jenkins Pipelines without the hassle](https://www.contrastsecurity.com/security-influencers/how-to-secure-jenkins-pipelines-without-the-hassle#:~:text=Navigate%20to%20your%20Jenkins%20UI,available%20to%20your%20Jenkins%20instance.)
 
+### ArgoCD
+
+- [Security Considerations](https://argo-cd.readthedocs.io/en/stable/security_considerations/)
+
 ## Videos
 
 - [Challenges to Securing CI/CD Pipelines](https://www.youtube.com/watch?v=Pd6akunYaZc)
@@ -57,6 +61,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Exploiting Continuous Integration (CI) and Automated Build systems](https://www.youtube.com/watch?v=mpUDqo7tIk8)
 - [Continuous Intrusion: Why CI Tools Are An Attacker's Best Friends](https://www.youtube.com/watch?v=0H6jd5yG7_A)
 - [How to Build a Compromise Resilient CI/CD](https://www.youtube.com/watch?v=ArS31CxneUA)
+- [Argo CD Security Practices](https://www.youtube.com/watch?v=3IoLH1j6cm0)
 
 ## Repositories
 
@@ -72,6 +77,8 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [GitHub Actions being actively abused to mine cryptocurrency on GitHub servers](https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/)
 - [Report: Software supply chain attacks increased 300% in 2021](https://venturebeat.com/2022/01/27/report-software-supply-chain-attacks-increased-300-in-2021/)
 - [Critical vulnerability discovered in popular CI/CD framework](https://www.itpro.co.uk/security/cyber-security/361400/critical-vulnerability-discovered-in-popular-cicd-framework)
+- [Malicious Kubernetes Helm Charts can be used to steal sensitive information from Argo CD deployments](https://apiiro.com/blog/malicious-kubernetes-helm-charts-can-be-used-to-steal-sensitive-information-from-argo-cd-deployments/)
+- [New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
 
 ## [Contributing](contributing.md)
 
