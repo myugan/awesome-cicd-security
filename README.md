@@ -35,6 +35,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Abusing GitLab Runners](https://frichetten.com/blog/abusing-gitlab-runners/)
 - [Securing GitLab CI pipelines with Sysbox](https://blog.nestybox.com/2020/10/21/gitlab-dind.html)
 - [GitLab - Security for self-managed runners](https://docs.gitlab.com/runner/security/)
+- [Critical GitLab vulnerability could allow attackers to steal runner registration tokens](https://portswigger.net/daily-swig/critical-gitlab-vulnerability-could-allow-attackers-to-steal-runner-registration-tokens)
 
 ### GitHub Actions
 
