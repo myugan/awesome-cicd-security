@@ -18,6 +18,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 
 ### General
 
+- [Visualizing CI/CD from an attacker’s perspective](https://medium.com/cider-sec/visualizing-ci-cd-from-an-attackers-perspective-22dfa38c9d09)
 - [The Anatomy of an Attack Against a Cloud Supply Pipeline](https://www.paloaltonetworks.com/blog/2021/10/anatomy-ci-cd-pipeline-attack/)
 - [Detecting Malicious Activity in CI/CD Pipeline with Tracee](https://blog.aquasec.com/cicd-pipeline-security-tool-tracee)
 - [Let’s Hack a Pipeline: Argument Injection](https://devblogs.microsoft.com/devops/pipeline-argument-injection/)
