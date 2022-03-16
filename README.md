@@ -73,6 +73,10 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework)
 - [pwn_jenkins](https://github.com/gquere/pwn_jenkins)
 
+## CTF
+
+- [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/)
+
 ## Cases
 
 - [10 real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
