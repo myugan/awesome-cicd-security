@@ -18,6 +18,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 
 ### General
 
+- [Top 10 CI/CD Security Risks](https://github.com/nathanawmk/top-10-cicd-security-risks)
 - [Continuous Delivery 3.0 Maturity Model (CD3M)](https://nisi.nl/continuousdelivery/articles/maturity-model)
 - [Visualizing CI/CD from an attacker’s perspective](https://medium.com/cider-sec/visualizing-ci-cd-from-an-attackers-perspective-22dfa38c9d09)
 - [The Anatomy of an Attack Against a Cloud Supply Pipeline](https://www.paloaltonetworks.com/blog/2021/10/anatomy-ci-cd-pipeline-attack/)
