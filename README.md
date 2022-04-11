@@ -7,7 +7,8 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
   - [Book](#book)
   - [Blogs](#blogs)
   - [Videos](#videos)
-  - [Repositories](#tools)
+  - [Repositories](#repositories)
+  - [Playground](#playground)
   - [Cases](#cases)
 
 ## Book
@@ -74,9 +75,10 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Jenkins Attack Framework](https://github.com/Accenture/jenkins-attack-framework)
 - [pwn_jenkins](https://github.com/gquere/pwn_jenkins)
 
-## CTF
+## Playground
 
-- [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont/)
+- [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont)
+- [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)
 
 ## Cases
 
