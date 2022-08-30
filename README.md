@@ -83,6 +83,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 ## Cases
 
 - [10 real-world stories of how we’ve compromised CI/CD pipelines](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+- [CI/CD pipeline attacks: A growing threat to enterprise security](https://limacharlie.io/blog/cicd-pipeline-attacks)
 - [Poisoned pipelines: Security researcher explores attack methods in CI environments](https://portswigger.net/daily-swig/poisoned-pipelines-security-researcher-explores-attack-methods-in-ci-environments)
 - [Travis CI Flaw Exposes Secrets of Thousands of Open Source Projects](https://thehackernews.com/2021/09/travis-ci-flaw-exposes-secrets-of.html)
 - [GitHub Actions being actively abused to mine cryptocurrency on GitHub servers](https://www.bleepingcomputer.com/news/security/github-actions-being-actively-abused-to-mine-cryptocurrency-on-github-servers/)
