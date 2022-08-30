@@ -93,6 +93,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
 - [Argo CD Security Bug Opens Kubernetes Cloud Apps to Attackers](https://threatpost.com/argo-cd-security-bug-kubernetes-cloud-apps/178239/)
 - [Ransomware attacks on GitHub, Bitbucket, and GitLab – what you should know](https://gitprotect.io/blog/ransomware-attacks-on-github-bitbucket-and-gitlab-what-you-should-know/)
+- [Compromising CI/CD Pipelines with Leaked Credentials](https://blog.gitguardian.com/security-zines-2-compromising-ci-cd-pipelines/)
 
 ## [Contributing](contributing.md)
 
