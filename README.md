@@ -35,6 +35,10 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Defending software build pipelines from malicious attack](https://www.ncsc.gov.uk/blog-post/defending-software-build-pipelines-from-malicious-attack)
 - [Cloud Native Best Practices: Security Policies in CI/CD Pipelines](https://blog.aquasec.com/cloud-native-security-best-practices-devops-security)
 
+### Azure DevOps Server
+
+- [Azure DevOps server supply-chain attack tree (map, Attack surface, threat modeling)](https://github.com/sergiomarotco/Azure-DevOps-server-supply-chain-attack-tree)
+
 ### GitLab
 
 - [Abusing GitLab Runners](https://frichetten.com/blog/abusing-gitlab-runners/)
