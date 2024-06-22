@@ -48,6 +48,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [GitHub Action Runners Analyzing the Environment and Security in Action](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/github-action-runners-analyzing-the-environment-and-security-in-action)
 - [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
 - [Automatically Secure Your CI/CD Pipelines Using Tracee GitHub Action](https://blog.aquasec.com/ci-cd-pipeline-security-tracee-github-action)
+- [Pwn Request Vulnerability](https://www.praetorian.com/blog/pwn-request-hacking-microsoft-github-repositories-and-more/)
 
 ### Jenkins
 
