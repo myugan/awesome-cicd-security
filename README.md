@@ -114,6 +114,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [poutine](https://github.com/boostsecurityio/poutine) - A security scanner that detects misconfigurations and vulnerabilities in the build pipelines of a repository.
 - [Harden-Runner](https://github.com/step-security/harden-runner) - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners.
 - [Cimon](https://github.com/CycodeLabs/cimon-action) - Runtime security solution for your CI/CD pipeline.
+- [Vulert](vulert.com) - VVulert secures software by detecting vulnerabilities in open-source dependencies—without accessing your code. It supports Js, PHP, Java, Python, and more.
 - [Raven](https://github.com/CycodeLabs/raven) - A powerful security tool designed to perform massive scans for GitHub Actions CI workflows and digest the discovered data into a Neo4j database
 
 ## Playground
