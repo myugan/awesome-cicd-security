@@ -44,6 +44,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Assess Vulnerabilities and Misconfigurations in CICD Pipelines: Part 2](https://success.qualys.com/discussions/s/article/000005842)
 - [Defending software build pipelines from malicious attack](https://www.ncsc.gov.uk/blog-post/defending-software-build-pipelines-from-malicious-attack)
 - [Cloud Native Best Practices: Security Policies in CI/CD Pipelines](https://blog.aquasec.com/cloud-native-security-best-practices-devops-security)
+- [CI/CD secrets extraction, tips and tricks](https://www.synacktiv.com/publications/cicd-secrets-extraction-tips-and-tricks)
 
 ### Azure DevOps Server
 
@@ -75,6 +76,12 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Keeping your GitHub Actions and workflows secure Part 3: How to trust your building blocks](https://securitylab.github.com/research/github-actions-building-blocks/)
 - [Github Actions Security Best Practices](https://engineering.salesforce.com/github-actions-security-best-practices-b8f9df5c75f5)
 - [Security hardening for GitHub Actions](https://docs.github.com/en/actions/security-guides/security-hardening-for-github-actions)
+- [GitHub Actions exploitation: introduction](https://www.synacktiv.com/publications/github-actions-exploitation-introduction)
+- [GitHub Actions exploitation: untrusted input](https://www.synacktiv.com/publications/github-actions-exploitation-untrusted-input)
+- [GitHub Actions exploitation: repo jacking and environment manipulation](https://www.synacktiv.com/publications/github-actions-exploitation-repo-jacking-and-environment-manipulation)
+- [GitHub Actions exploitation: self hosted runners](https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners)
+- [GitHub Actions exploitation: Dependabot](https://www.synacktiv.com/publications/github-actions-exploitation-dependabot)
+- [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization)
 
 ### Jenkins
 
@@ -115,6 +122,9 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Harden-Runner](https://github.com/step-security/harden-runner) - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners.
 - [Cimon](https://github.com/CycodeLabs/cimon-action) - Runtime security solution for your CI/CD pipeline.
 - [Raven](https://github.com/CycodeLabs/raven) - A powerful security tool designed to perform massive scans for GitHub Actions CI workflows and digest the discovered data into a Neo4j database
+- [nord-stream](https://github.com/synacktiv/nord-stream) - Nord Stream is a tool that allows you extract secrets stored inside CI/CD environments by deploying malicious pipelines.
+- [octoscan] - Octoscan is a static vulnerability scanner for GitHub action workflows.
+- [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 
 ## Playground
 
@@ -144,3 +154,4 @@ Your contributions are always welcome.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
