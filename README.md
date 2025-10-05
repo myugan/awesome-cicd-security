@@ -123,7 +123,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Cimon](https://github.com/CycodeLabs/cimon-action) - Runtime security solution for your CI/CD pipeline.
 - [Raven](https://github.com/CycodeLabs/raven) - A powerful security tool designed to perform massive scans for GitHub Actions CI workflows and digest the discovered data into a Neo4j database
 - [nord-stream](https://github.com/synacktiv/nord-stream) - Nord Stream is a tool that allows you extract secrets stored inside CI/CD environments by deploying malicious pipelines.
-- [octoscan] - Octoscan is a static vulnerability scanner for GitHub action workflows.
+- [octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 
 ## Playground
@@ -154,4 +154,5 @@ Your contributions are always welcome.
 ## License
 
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
 
