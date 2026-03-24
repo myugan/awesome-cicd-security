@@ -127,6 +127,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [segspec](https://github.com/dormstern/segspec) - Extracts network dependencies from application config files and generates Kubernetes NetworkPolicies. Diff mode enables CI gating to catch unauthorized network changes before deployment.
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
+- [GHA Scanner](https://github.com/raajheshkannaa/gha-scanner) - Security scanner for GitHub Actions workflows with 25 checks across 8 categories. Available as a web UI, CLI, and GitHub Action.
 
 ## Playground
 
