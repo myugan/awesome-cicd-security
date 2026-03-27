@@ -158,3 +158,4 @@ Your contributions are always welcome.
 [![CC0](https://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 
+- [DepIntel Action](https://github.com/lunacompsia-oss/depintel-action) - GitHub Action that analyzes PR dependency changes for vulnerabilities (via OSV.dev) and license compliance risks. Posts a summary comment with findings.
