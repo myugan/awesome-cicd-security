@@ -122,6 +122,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Harden-Runner](https://github.com/step-security/harden-runner) - Network egress filtering and runtime security for GitHub-hosted and self-hosted runners.
 - [Cimon](https://github.com/CycodeLabs/cimon-action) - Runtime security solution for your CI/CD pipeline.
 - [releaserun](https://github.com/Releaserun/releaserun-cli) - CLI tool and GitHub Action that scans CI/CD pipeline dependencies for known CVEs, end-of-life versions, and deprecated packages across Node.js, Python, Go, Rust, and Docker. Catches vulnerable dependencies before they reach production.
+- [Codex Plugin Scanner](https://github.com/hashgraph-online/codex-plugin-scanner) - Security scanner for OpenAI Codex CLI plugins with SARIF output for CI integration. Scores plugins across manifest validation, secret detection, MCP transport hardening, GitHub Actions security, and best practices. Also available as a GitHub Action.
 - [Raven](https://github.com/CycodeLabs/raven) - A powerful security tool designed to perform massive scans for GitHub Actions CI workflows and digest the discovered data into a Neo4j database
 - [nord-stream](https://github.com/synacktiv/nord-stream) - Nord Stream is a tool that allows you extract secrets stored inside CI/CD environments by deploying malicious pipelines.
 - [octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
