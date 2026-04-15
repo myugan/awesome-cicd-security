@@ -82,6 +82,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [GitHub Actions exploitation: self hosted runners](https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners)
 - [GitHub Actions exploitation: Dependabot](https://www.synacktiv.com/publications/github-actions-exploitation-dependabot)
 - [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization)
+- [12 Steps to Secure GitHub Actions After the Trivy Attack](https://haitmg.pl/blog/github-actions-security-after-trivy-attack/) - 12-step hardening checklist with YAML and Terraform code, covering the full SpotBugs-to-Trivy attack chain timeline
 
 ### Jenkins
 
