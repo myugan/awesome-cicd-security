@@ -48,8 +48,10 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 
 ### Azure DevOps Server
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Azure DevOps server supply-chain attack tree (map, Attack surface, threat modeling)](https://github.com/sergiomarotco/Azure-DevOps-server-supply-chain-attack-tree)
 
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline with visual dashboard, one-click install, and auto-update.
 ### GitLab
 
 - [Abusing GitLab Runners](https://frichetten.com/blog/abusing-gitlab-runners/)
