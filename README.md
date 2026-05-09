@@ -82,6 +82,8 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [GitHub Actions exploitation: self hosted runners](https://www.synacktiv.com/publications/github-actions-exploitation-self-hosted-runners)
 - [GitHub Actions exploitation: Dependabot](https://www.synacktiv.com/publications/github-actions-exploitation-dependabot)
 - [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization)
+- [GitHub Actions OIDC – Non-Human Identities and Secretless Authentication](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/)
+- [Securing APIs with GitHub Actions OIDC and Envoy Proxy](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/)
 
 ### Jenkins
 
