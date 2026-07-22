@@ -117,6 +117,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [pwn_jenkins](https://github.com/gquere/pwn_jenkins)
 
 ## Tools
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation.
 - [SmokedMeat](https://github.com/boostsecurityio/smokedmeat) - Like Metasploit, but for CI/CD pipelines.
 - [Gato](https://github.com/praetorian-inc/gato) - A tool that helps blue teamers and offensive security practitioners find weaknesses in GitHub organization's public and private repositories.
 - [poutine](https://github.com/boostsecurityio/poutine) - A security scanner that detects misconfigurations and vulnerabilities in the build pipelines of a repository.
