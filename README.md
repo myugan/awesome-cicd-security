@@ -129,6 +129,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
+- [Protet](https://protet.io) - Behavioral supply-chain attack detection for CI/CD: flags malicious execution from kernel-level telemetry (eBPF/Tetragon) during the build and emits OCSF Detection Findings to a webhook or log.
 
 ## Playground
 
