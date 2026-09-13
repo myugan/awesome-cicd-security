@@ -135,6 +135,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [CI/CDon't](https://hackingthe.cloud/aws/capture_the_flag/cicdont)
 - [CI/CD Goat](https://github.com/cider-security-research/cicd-goat)
 - [GitHub Actions Goat](https://github.com/step-security/github-actions-goat)
+- [RansomLeak Git & CI/CD Security](https://ransomleak.com/catalogue/git-security/) - Browser-based labs on CI/CD secret exposure, malicious pull requests, branch protection bypass, and secrets in Git history
 
 ## Cases
 
