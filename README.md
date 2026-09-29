@@ -84,6 +84,8 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Hijacking GitHub runners to compromise the organization](https://www.synacktiv.com/publications/hijacking-github-runners-to-compromise-the-organization)
 - [GitHub Actions OIDC – Non-Human Identities and Secretless Authentication](https://eparon.me/posts/2026-02-28-oidc-gh-actions-p1/)
 - [Securing APIs with GitHub Actions OIDC and Envoy Proxy](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/)
+- [GITHUB_TOKEN Permissions: Least Privilege for Every Workflow](https://craci.com/blog/github-token-permissions)
+- [GitHub Actions Secrets: How They Leak and How to Lock Them Down](https://craci.com/blog/github-actions-secrets)
 
 ### Jenkins
 
