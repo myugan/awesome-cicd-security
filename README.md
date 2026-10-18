@@ -131,6 +131,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
+- [RunnerDriftAudit](https://github.com/alapha888/runner-drift-audit) - A static scanner for GitHub Actions workflows that flags floating and retired runner labels, unpinned action references, and tool-version drift ahead of runner-image migrations, with SARIF export for code scanning.
 
 ## Playground
 
