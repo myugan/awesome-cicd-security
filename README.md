@@ -131,6 +131,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
+- [EnvSure](https://github.com/sekharsdet/envsure) - GitHub Action that fails a pull request when code references an environment variable or secret that is missing in its deployment environment (GitHub, Vercel, AWS, and more). Reads names only, never values.
 
 ## Playground
 
