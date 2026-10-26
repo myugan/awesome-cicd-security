@@ -86,6 +86,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [Securing APIs with GitHub Actions OIDC and Envoy Proxy](https://eparon.me/posts/2026-03-24-oidc-gh-actions-p2/)
 - [GITHUB_TOKEN Permissions: Least Privilege for Every Workflow](https://craci.com/blog/github-token-permissions)
 - [GitHub Actions Secrets: How They Leak and How to Lock Them Down](https://craci.com/blog/github-actions-secrets)
+- [GitHub Actions Incidents: What Actually Breaks in Production](https://devtoolhub.com/git-github-actions-guide/)
 
 ### Jenkins
 
