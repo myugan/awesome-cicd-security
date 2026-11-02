@@ -129,6 +129,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [nord-stream](https://github.com/synacktiv/nord-stream) - Nord Stream is a tool that allows you extract secrets stored inside CI/CD environments by deploying malicious pipelines.
 - [octoscan](https://github.com/synacktiv/octoscan) - Octoscan is a static vulnerability scanner for GitHub action workflows.
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
+- [HOL Guard Plugin Scanner](https://github.com/hashgraph-online/hol-guard) - Open-source CLI and GitHub Action that scans AI agent plugins, skills, MCP configurations, dependency lockfiles and GitHub Actions permissions. [Docs](https://hol.org/guard).
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
 
