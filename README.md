@@ -131,6 +131,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
+- [GuardLink](https://github.com/Bugb-Technologies/guardlink) - Open-source threat modeling as code that gates pull requests: annotations in source comments form the threat model, `guardlink diff --fail-on-new` fails a PR that adds an unmitigated exposure, and SARIF goes to code scanning. It also inventories GitHub Actions workflows that run AI coding agents for privileged triggers, untrusted event input, write permissions and unpinned actions.
 
 ## Playground
 
