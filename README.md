@@ -131,6 +131,7 @@ List of awesome resources about CI/CD security included books, blogs, videos, to
 - [gh-hijack-runner](https://github.com/synacktiv/gh-hijack-runner) - A python script to create a fake GitHub runner and hijack pipeline jobs to leak CI/CD secrets.
 - [zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions.
 - [actionlint](https://github.com/rhysd/actionlint) - A static checker for GitHub Actions workflow files.
+- [sentinel-lint-action](https://github.com/draarivpatel-ui/sentinel-lint-action) - Zero-dependency GitHub Action that scans repositories with sentinel-lint and uploads SARIF 2.1.0 results to GitHub code scanning.
 
 ## Playground
 
